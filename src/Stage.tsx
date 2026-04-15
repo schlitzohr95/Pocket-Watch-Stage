@@ -371,4 +371,4 @@ class Stage extends StageBase<InitState, ChatState, MessageState, Config> {
     }
 }
 
-export default Stage;
+export { Stage };
