@@ -1,0 +1,51 @@
+{
+  "characters": {
+    "bot_1": {
+      "name": "Perdition",
+      "isMain": true
+    }
+  },
+  "users": {
+    "user_1": {
+      "name": "Guest"
+    }
+  },
+  "initState": null,
+  "chatState": null,
+  "messageState": null,
+  "config": null,
+  "environment": "development",
+  "token": "",
+  "id": 0,
+  "userId": "user_1",
+  "testMessages": [
+    {
+      "role": "bot",
+      "content": "🌅 Day 1 — Afternoon\n\nThe train had been climbing since dawn. The car smelled of coal smoke and bodies."
+    },
+    {
+      "role": "user",
+      "content": "I look around the saloon."
+    },
+    {
+      "role": "bot",
+      "content": "☀️ Day 1 — Evening\n\nThe Lucky Strike announced itself in piano music and lamp oil. Silas polished the same glass he'd been polishing when the sun was high."
+    },
+    {
+      "role": "user",
+      "content": "I go to the Painted Lady."
+    },
+    {
+      "role": "bot",
+      "content": "🌙 Day 1 — Night\n\nClementine studied the newcomer the way a jeweler studies a stone. 'New face,' she said."
+    },
+    {
+      "role": "user",
+      "content": "I watch the noon duel the next day."
+    },
+    {
+      "role": "bot",
+      "content": "☀️ Day 2 — Afternoon\n\nThe same man stepped into the street. The same stance. Briggs drew. The bullet hit the same spot — center mass, slightly left. The dust settled the same way it had yesterday. Exactly the same way."
+    }
+  ]
+}
