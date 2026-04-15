@@ -1,18 +1,12 @@
 :root {
-  font-synthesis: none;
-  text-rendering: optimizeLegibility;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  --brass: #b8860b;
+  --face: #f5f0e1;
+  --dark: #1a1008;
 }
 
-// Ensure that everything is transparent,
-// so that the chat page can be seen through the stage
-* {
-  background-color: transparent !important;
-  overflow: hidden !important;
-}
-
-html, body, #root {
+body {
   margin: 0;
   padding: 0;
+  background: transparent;
+  overflow: hidden;
 }
